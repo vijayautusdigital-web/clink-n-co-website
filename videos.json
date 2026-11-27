@@ -1,0 +1,28 @@
+{
+  "videos": [
+    {
+      "title": "Clink N Co charm keychain reel",
+      "videoFile": "/assets/videos/product-reel-1.mp4",
+      "poster": "/assets/images/evil-eye-bell-keychain.webp",
+      "alt": "Clink N Co charm keychain product reel",
+      "featured": true,
+      "published": true
+    },
+    {
+      "title": "Clink N Co keychain collection reel",
+      "videoFile": "/assets/videos/product-reel-2.mp4",
+      "poster": "/assets/images/iron-man-keychain.webp",
+      "alt": "Clink N Co keychain collection video",
+      "featured": false,
+      "published": true
+    },
+    {
+      "title": "Clink N Co football keychain reel",
+      "videoFile": "/assets/videos/product-reel-3.mp4",
+      "poster": "/assets/images/evil-eye-bell-keychain.webp",
+      "alt": "Clink N Co football keychain video",
+      "featured": false,
+      "published": true
+    }
+  ]
+}

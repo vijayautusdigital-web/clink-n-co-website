@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "slug": "thanos-keychain",
+      "name": "Thanos Keychain",
+      "category": "Character Keychains",
+      "primaryKeyword": "Thanos keychain",
+      "secondaryKeywords": [
+        "metal character keychain",
+        "collectible keychain",
+        "gift keychain"
+      ],
+      "seoTitle": "Thanos Keychain | Clink N Co",
+      "metaDescription": "Explore the Thanos keychain from Clink N Co. View product photos and enquire directly on WhatsApp.",
+      "shortDescription": "A detailed character-inspired metal keychain for collectors and gifting.",
+      "description": "This Thanos keychain features a detailed metal design. Contact Clink N Co on WhatsApp to confirm availability, product details and delivery.",
+      "material": "Metal",
+      "design": "Character-inspired collectible",
+      "giftUse": "Collectible or gift",
+      "image": "/assets/images/thanos-keychain.webp",
+      "alt": "Thanos character-inspired metal keychain by Clink N Co",
+      "price": "",
+      "featured": true,
+      "published": true
+    },
+    {
+      "slug": "iron-man-keychain",
+      "name": "Iron Man Keychain",
+      "category": "Character Keychains",
+      "primaryKeyword": "Iron Man keychain",
+      "secondaryKeywords": [
+        "metal character keychain",
+        "superhero keychain",
+        "collectible gift"
+      ],
+      "seoTitle": "Iron Man Keychain | Clink N Co",
+      "metaDescription": "Discover the Iron Man keychain from Clink N Co. See the product design and enquire on WhatsApp.",
+      "shortDescription": "A bold character-inspired keychain with a bright, detailed finish.",
+      "description": "Explore the Iron Man keychain from Clink N Co. Message us on WhatsApp to confirm availability and ask about product details.",
+      "material": "Metal",
+      "design": "Character-inspired collectible",
+      "giftUse": "Collectible or gift",
+      "image": "/assets/images/iron-man-keychain.webp",
+      "alt": "Iron Man character-inspired keychain from Clink N Co",
+      "price": "",
+      "featured": true,
+      "published": true
+    },
+    {
+      "slug": "evil-eye-bell-keychain",
+      "name": "Evil Eye Bell Keychain",
+      "category": "Charm Keychains",
+      "primaryKeyword": "evil eye bell keychain",
+      "secondaryKeywords": [
+        "blue evil eye keychain",
+        "bell charm keychain",
+        "small charm accessory"
+      ],
+      "seoTitle": "Evil Eye Bell Keychain | Clink N Co",
+      "metaDescription": "See the evil eye bell keychain from Clink N Co. Contact us on WhatsApp for availability and details.",
+      "shortDescription": "A small bell charm paired with a blue evil eye detail.",
+      "description": "This charm keychain combines a bell-style pendant with a blue evil eye accent. Enquire on WhatsApp for availability and delivery details.",
+      "material": "Metal and decorative charm",
+      "design": "Bell with blue evil eye detail",
+      "giftUse": "Small accessory or gift",
+      "image": "/assets/images/evil-eye-bell-keychain.webp",
+      "alt": "Bell keychain with blue evil eye charm held in hand",
+      "price": "",
+      "featured": true,
+      "published": true
+    }
+  ]
+}
