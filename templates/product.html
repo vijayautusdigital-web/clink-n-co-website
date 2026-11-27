@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{SEO_TITLE}}</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <link rel="canonical" href="{{CANONICAL}}">
+
+  <script type="application/ld+json">
+    {{PRODUCT_SCHEMA}}
+  </script>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      color: #222;
+      background: #fff;
+    }
+
+    header, footer {
+      padding: 20px;
+      background: #f8f5ef;
+      text-align: center;
+    }
+
+    main {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 20px;
+    }
+
+    .product {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 35px;
+      align-items: start;
+    }
+
+    .product img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px;
+    }
+
+    .category {
+      color: #777;
+      text-transform: uppercase;
+      font-size: 14px;
+    }
+
+    h1 {
+      font-size: 32px;
+      margin: 12px 0;
+    }
+
+    .details p {
+      line-height: 1.7;
+    }
+
+    .enquire {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 14px 24px;
+      background: #222;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+
+    @media (max-width: 700px) {
+      .product {
+        grid-template-columns: 1fr;
+      }
+
+      h1 {
+        font-size: 26px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <a href="/" style="color:inherit;text-decoration:none;">
+      <strong>Clink N Co</strong>
+    </a>
+  </header>
+
+  <main>
+    <section class="product">
+      <div>
+        <img src="{{IMAGE}}" alt="{{ALT}}" loading="eager">
+      </div>
+
+      <div class="details">
+        <p class="category">{{CATEGORY}}</p>
+        <h1>{{PRODUCT_NAME}}</h1>
+
+        <p>{{SHORT_DESCRIPTION}}</p>
+
+        <h2>Product Details</h2>
+        <p>{{DESCRIPTION}}</p>
+
+        <p><strong>Material:</strong> {{MATERIAL}}</p>
+        <p><strong>Design:</strong> {{DESIGN}}</p>
+        <p><strong>Gift Use:</strong> {{GIFT_USE}}</p>
+
+        <a class="enquire"
+           href="https://wa.me/919891826482"
+           target="_blank"
+           rel="noopener">
+          Enquire on WhatsApp
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Clink N Co</p>
+    <p>Contact us on WhatsApp for product enquiries.</p>
+  </footer>
+</body>
+</html>
